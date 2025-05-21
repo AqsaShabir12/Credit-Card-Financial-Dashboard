@@ -62,7 +62,7 @@ To enable real-time tracking of revenue, interest, income, and customer trends b
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Credit Card Customer Dashboard](./credit_card_customer_report.png)
 ![Credit Card Transaction Dashboard](./credit_card_transaction_report.png)
